@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgymnasium_code_42=self.webpackChunkgymnasium_code_42||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/gymnasium-code-42/blog","blogTitle":"Blog","authorsListPath":"/gymnasium-code-42/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgymnasium_code_42=self.webpackChunkgymnasium_code_42||[]).push([[6261],{7991:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/gymnasium-code-42/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
