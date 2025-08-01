@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgymnasium_code_42=self.webpackChunkgymnasium_code_42||[]).push([[9961],{4208:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"gamemaker"}')}}]);
